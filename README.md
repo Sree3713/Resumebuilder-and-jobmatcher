@@ -1,4 +1,4 @@
-# Resume Builder and Analyzer Web Application
+# Resume Builder and Analyzer Web Aplication
 
 This repository hosts the documentation and download link for the Resume Builder and Analyzer project.
 
